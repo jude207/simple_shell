@@ -43,6 +43,7 @@ extern char **environ;
  * @str: a string
  * @next: points to the next node
  */
+
 typedef struct liststr
 {
 	int num;
